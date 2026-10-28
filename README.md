@@ -45,16 +45,9 @@ The original schedule did not match demand: waiting times and lost customers pea
 | Lost customers | 2.9% | 0.8% |
 | Average utilization | ~55–58% | ~59% |
 
-![Average waiting time per timeslot](<Average waiting time per timeslot - original vs optimized.png>)
-![Lost customers per timeslot](<Lost customers per timeslot - original vs optimized.png>)
-![Utilization per timeslot](<Utilization per timeslot - original vs optimized.png>)
-![Waiting time distribution](<Waiting time distribution - original vs optimized.png>)
-
 **Part B – Inventory management**
 
 The ABC analysis shows that 4 snacks (Frikandel, Mexican Specialty, Meat Skewer and Dutch Bitterballs) generate about 75% of revenue, while Dutch Bitterballs Veg, Shrimp Croquettes and Boulet bring in less than 10%.
-
-![Pareto chart ABC analysis](<Pareto chart ABC analysis.png>)
 
 With the current policy, total inventory costs reach €58,573 per year. Applying optimized parameters at a 95% service level lowers expected costs to €34,598. Switching the Frikandel supplier from VET to OLI brings further savings:
 
